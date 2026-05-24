@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1920" height="1081" alt="forest" src="https://github.com/user-attachments/assets/b1f429d5-0e69-4e21-9be1-f6f833a5e046" />
 
 <!--
 **grillofrancesco/grillofrancesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
